@@ -4,10 +4,7 @@ licenselink = "Link to theme's license"
 description = "A theme with light color and multi-section support"
 
 # The home page of the theme, where the source can be found.
-homepage = "https://github.com/leafee98/hugo-theme-flat"
-
-# If you have a running demo of the theme.
-demosite = "https://leafee98.github.io/hugo-theme-flat/"
+homepage = "https://github.com/theArcLabs/flat-arc/"
 
 tags = ["blog", "personal", "light", "dark", "responsive"]
 features = []
@@ -19,8 +16,8 @@ features = []
 
 # If the theme has a single author
 [author]
-    name = "leafee98"
-    homepage = "https://leafee98.com"
+    name = "thepettypow"
+    homepage = "https://github.com/thepettypow/"
 
 # If porting an existing theme
 #[original]
